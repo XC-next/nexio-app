@@ -1,0 +1,5 @@
+{
+  "name": "Nexio",
+  "description": "A modern, glassmorphic social media platform with real-time chat, explore grid, and personalized profiles.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
